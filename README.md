@@ -14,7 +14,9 @@ Alternatively, the user can get a random idea for dinner recipe using the "Anyth
 ---
 #### Deployed link (full-version)
 <https://recipes-search-full.onrender.com/>
+
 (updated code to fully display recipes with ingredients and measurements, added styling to make the page easier to view)
+
 #### Github link for the full-version
 <https://github.com/grace1501/recipes-search-full>
 
